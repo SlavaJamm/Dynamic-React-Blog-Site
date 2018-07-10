@@ -7,12 +7,12 @@ To run this site use command line:
    to build developers vers type: "gatsby develop"
 3. To add a new blog you should create folder in src/pages and index.md inside this folder
 4. Use this template to create post:
-    ---
+
     path: "/your-path-name"
     date: "2018-04-09--date-of-post"
     title: "My post"
     author: "Your Name"
-    ---
+
 
     This is your post in md markup style
 5. Use your Dynamic Web Blog Site
